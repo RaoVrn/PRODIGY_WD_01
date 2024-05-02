@@ -1,7 +1,5 @@
 # Prodigy Infotech Landing Page
 
-![Prodigy Infotech Landing Page](/path/to/screenshot.png)
-
 This project is a responsive landing page showcasing Prodigy Infotech's services and expertise. It demonstrates core web development skills using HTML, CSS, and JavaScript.
 
 ## ✨ Features
